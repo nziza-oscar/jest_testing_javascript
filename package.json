@@ -1,0 +1,27 @@
+{
+  "name": "software-testing",
+  "version": "1.0.0",
+  "description": "testing software components",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nziza-oscar/jest_testing_javascript.git"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "coding"
+  ],
+  "author": "oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nziza-oscar/jest_testing_javascript/issues"
+  },
+  "homepage": "https://github.com/nziza-oscar/jest_testing_javascript#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
